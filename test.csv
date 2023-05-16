@@ -1,0 +1,85 @@
+File Names,Spawn Positions,End Frame,Render Frames,Number of OBJs,Input DIR,Output DIR,Camera Location,"Camera Rotations (Degrees, Start Frame, End Frame)",Material Type
+"brick_1x2.obj, brick_1x4.obj, brick_2x2.obj, brick_2x3.obj, brick_2x4.obj, plate_1x2.obj, plate_1x4.obj, plate_2x2.obj, plate_2x3.obj, plate_2x4.obj","(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",5,Bricks,outputx1,"(0,2,5)","(359, 270, 300)",Lego
+"brick_1x2.obj, brick_1x4.obj, brick_2x2.obj, brick_2x3.obj, brick_2x4.obj, plate_1x2.obj, plate_1x4.obj, plate_2x2.obj, plate_2x3.obj, plate_2x4.obj","(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",10,Bricks,outputx2,"(0,2,5)","(359, 270, 300)",Lego
+"brick_1x2.obj, brick_1x4.obj, brick_2x2.obj, brick_2x3.obj, brick_2x4.obj, plate_1x2.obj, plate_1x4.obj, plate_2x2.obj, plate_2x3.obj, plate_2x4.obj","(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",15,Bricks,outputx3,"(0,2,5)","(359, 270, 300)",Lego
+"brick_1x2.obj, brick_1x4.obj, brick_2x2.obj, brick_2x3.obj, brick_2x4.obj, plate_1x2.obj, plate_1x4.obj, plate_2x2.obj, plate_2x3.obj, plate_2x4.obj","(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",20,Bricks,outputx4,"(0,2,5)","(359, 270, 300)",Lego
+"brick_1x2.obj, brick_1x4.obj, brick_2x2.obj, brick_2x3.obj, brick_2x4.obj, plate_1x2.obj, plate_1x4.obj, plate_2x2.obj, plate_2x3.obj, plate_2x4.obj","(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",25,Bricks,outputx5,"(0,2,5)","(359, 270, 300)",Lego
+"brick_1x2.obj, brick_1x4.obj, brick_2x2.obj, brick_2x3.obj, brick_2x4.obj, plate_1x2.obj, plate_1x4.obj, plate_2x2.obj, plate_2x3.obj, plate_2x4.obj","(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",30,Bricks,outputx6,"(0,2,5)","(359, 270, 300)",Lego
+"brick_1x2.obj, brick_1x4.obj, brick_2x2.obj, brick_2x3.obj, brick_2x4.obj, plate_1x2.obj, plate_1x4.obj, plate_2x2.obj, plate_2x3.obj, plate_2x4.obj","(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",35,Bricks,outputx7,"(0,2,5)","(359, 270, 300)",Lego
+"brick_1x2.obj, brick_1x4.obj, brick_2x2.obj, brick_2x3.obj, brick_2x4.obj, plate_1x2.obj, plate_1x4.obj, plate_2x2.obj, plate_2x3.obj, plate_2x4.obj","(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",40,Bricks,outputx8,"(0,2,5)","(359, 270, 300)",Lego
+"brick_1x2.obj, brick_1x4.obj, brick_2x2.obj, brick_2x3.obj, brick_2x4.obj, plate_1x2.obj, plate_1x4.obj, plate_2x2.obj, plate_2x3.obj, plate_2x4.obj","(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",45,Bricks,outputx9,"(0,2,5)","(359, 270, 300)",Lego
+"brick_1x2.obj, brick_1x4.obj, brick_2x2.obj, brick_2x3.obj, brick_2x4.obj, plate_1x2.obj, plate_1x4.obj, plate_2x2.obj, plate_2x3.obj, plate_2x4.obj","(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",50,Bricks,outputx10,"(0,2,5)","(359, 270, 300)",Lego
+"brick_1x2.obj, brick_1x4.obj, brick_2x2.obj, brick_2x3.obj, brick_2x4.obj, plate_1x2.obj, plate_1x4.obj, plate_2x2.obj, plate_2x3.obj, plate_2x4.obj","(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",55,Bricks,outputx11,"(0,2,5)","(359, 270, 300)",Lego
+"brick_1x2.obj, brick_1x4.obj, brick_2x2.obj, brick_2x3.obj, brick_2x4.obj, plate_1x2.obj, plate_1x4.obj, plate_2x2.obj, plate_2x3.obj, plate_2x4.obj","(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",60,Bricks,outputx12,"(0,2,5)","(359, 270, 300)",Lego
+"brick_1x2.obj, brick_1x4.obj, brick_2x2.obj, brick_2x3.obj, brick_2x4.obj, plate_1x2.obj, plate_1x4.obj, plate_2x2.obj, plate_2x3.obj, plate_2x4.obj","(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",100,Bricks,outputx13,"(0,2,5)","(359, 270, 300)",Lego
+"brick_1x2.obj, brick_1x4.obj, brick_2x2.obj, brick_2x3.obj, brick_2x4.obj, plate_1x2.obj, plate_1x4.obj, plate_2x2.obj, plate_2x3.obj, plate_2x4.obj","(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",200,Bricks,outputx14,"(0,2,5)","(359, 270, 300)",Lego
+brick_1x2.obj,"(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",5,Bricks,outputx15,"(0,2,5)","(359, 270, 300)",Lego
+brick_1x2.obj,"(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",10,Bricks,outputx16,"(0,2,5)","(359, 270, 300)",Lego
+brick_1x2.obj,"(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",15,Bricks,outputx17,"(0,2,5)","(359, 270, 300)",Lego
+brick_1x2.obj,"(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",20,Bricks,outputx18,"(0,2,5)","(359, 270, 300)",Lego
+brick_1x2.obj,"(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",25,Bricks,outputx19,"(0,2,5)","(359, 270, 300)",Lego
+brick_1x2.obj,"(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",30,Bricks,outputx20,"(0,2,5)","(359, 270, 300)",Lego
+brick_1x2.obj,"(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",35,Bricks,outputx21,"(0,2,5)","(359, 270, 300)",Lego
+brick_1x2.obj,"(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",40,Bricks,outputx22,"(0,2,5)","(359, 270, 300)",Lego
+brick_1x2.obj,"(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",45,Bricks,outputx23,"(0,2,5)","(359, 270, 300)",Lego
+brick_1x2.obj,"(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",50,Bricks,outputx24,"(0,2,5)","(359, 270, 300)",Lego
+brick_1x2.obj,"(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",55,Bricks,outputx25,"(0,2,5)","(359, 270, 300)",Lego
+brick_1x2.obj,"(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",60,Bricks,outputx26,"(0,2,5)","(359, 270, 300)",Lego
+brick_1x2.obj,"(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",100,Bricks,outputx27,"(0,2,5)","(359, 270, 300)",Lego
+brick_1x2.obj,"(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",200,Bricks,outputx28,"(0,2,5)","(359, 270, 300)",Lego
+brick_2x4.obj,"(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",5,Bricks,outputx29,"(0,2,5)","(359, 270, 300)",Lego
+brick_2x4.obj,"(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",10,Bricks,outputx30,"(0,2,5)","(359, 270, 300)",Lego
+brick_2x4.obj,"(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",15,Bricks,outputx31,"(0,2,5)","(359, 270, 300)",Lego
+brick_2x4.obj,"(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",20,Bricks,outputx32,"(0,2,5)","(359, 270, 300)",Lego
+brick_2x4.obj,"(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",25,Bricks,outputx33,"(0,2,5)","(359, 270, 300)",Lego
+brick_2x4.obj,"(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",30,Bricks,outputx34,"(0,2,5)","(359, 270, 300)",Lego
+brick_2x4.obj,"(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",35,Bricks,outputx35,"(0,2,5)","(359, 270, 300)",Lego
+brick_2x4.obj,"(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",40,Bricks,outputx36,"(0,2,5)","(359, 270, 300)",Lego
+brick_2x4.obj,"(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",45,Bricks,outputx37,"(0,2,5)","(359, 270, 300)",Lego
+brick_2x4.obj,"(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",50,Bricks,outputx38,"(0,2,5)","(359, 270, 300)",Lego
+brick_2x4.obj,"(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",55,Bricks,outputx39,"(0,2,5)","(359, 270, 300)",Lego
+brick_2x4.obj,"(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",60,Bricks,outputx40,"(0,2,5)","(359, 270, 300)",Lego
+brick_2x4.obj,"(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",100,Bricks,outputx41,"(0,2,5)","(359, 270, 300)",Lego
+brick_2x4.obj,"(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",200,Bricks,outputx42,"(0,2,5)","(359, 270, 300)",Lego
+"brick_1x2.obj, brick_1x4.obj, brick_2x2.obj, brick_2x3.obj, brick_2x4.obj, plate_1x2.obj, plate_1x4.obj, plate_2x2.obj, plate_2x3.obj, plate_2x4.obj","(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",5,Bricks,outputx43,"(0,2,5)","(359, 270, 300)",Random
+"brick_1x2.obj, brick_1x4.obj, brick_2x2.obj, brick_2x3.obj, brick_2x4.obj, plate_1x2.obj, plate_1x4.obj, plate_2x2.obj, plate_2x3.obj, plate_2x4.obj","(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",10,Bricks,outputx44,"(0,2,5)","(359, 270, 300)",Random
+"brick_1x2.obj, brick_1x4.obj, brick_2x2.obj, brick_2x3.obj, brick_2x4.obj, plate_1x2.obj, plate_1x4.obj, plate_2x2.obj, plate_2x3.obj, plate_2x4.obj","(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",15,Bricks,outputx45,"(0,2,5)","(359, 270, 300)",Random
+"brick_1x2.obj, brick_1x4.obj, brick_2x2.obj, brick_2x3.obj, brick_2x4.obj, plate_1x2.obj, plate_1x4.obj, plate_2x2.obj, plate_2x3.obj, plate_2x4.obj","(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",20,Bricks,outputx46,"(0,2,5)","(359, 270, 300)",Random
+"brick_1x2.obj, brick_1x4.obj, brick_2x2.obj, brick_2x3.obj, brick_2x4.obj, plate_1x2.obj, plate_1x4.obj, plate_2x2.obj, plate_2x3.obj, plate_2x4.obj","(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",25,Bricks,outputx47,"(0,2,5)","(359, 270, 300)",Random
+"brick_1x2.obj, brick_1x4.obj, brick_2x2.obj, brick_2x3.obj, brick_2x4.obj, plate_1x2.obj, plate_1x4.obj, plate_2x2.obj, plate_2x3.obj, plate_2x4.obj","(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",30,Bricks,outputx48,"(0,2,5)","(359, 270, 300)",Random
+"brick_1x2.obj, brick_1x4.obj, brick_2x2.obj, brick_2x3.obj, brick_2x4.obj, plate_1x2.obj, plate_1x4.obj, plate_2x2.obj, plate_2x3.obj, plate_2x4.obj","(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",35,Bricks,outputx49,"(0,2,5)","(359, 270, 300)",Random
+"brick_1x2.obj, brick_1x4.obj, brick_2x2.obj, brick_2x3.obj, brick_2x4.obj, plate_1x2.obj, plate_1x4.obj, plate_2x2.obj, plate_2x3.obj, plate_2x4.obj","(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",40,Bricks,outputx50,"(0,2,5)","(359, 270, 300)",Random
+"brick_1x2.obj, brick_1x4.obj, brick_2x2.obj, brick_2x3.obj, brick_2x4.obj, plate_1x2.obj, plate_1x4.obj, plate_2x2.obj, plate_2x3.obj, plate_2x4.obj","(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",45,Bricks,outputx51,"(0,2,5)","(359, 270, 300)",Random
+"brick_1x2.obj, brick_1x4.obj, brick_2x2.obj, brick_2x3.obj, brick_2x4.obj, plate_1x2.obj, plate_1x4.obj, plate_2x2.obj, plate_2x3.obj, plate_2x4.obj","(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",50,Bricks,outputx52,"(0,2,5)","(359, 270, 300)",Random
+"brick_1x2.obj, brick_1x4.obj, brick_2x2.obj, brick_2x3.obj, brick_2x4.obj, plate_1x2.obj, plate_1x4.obj, plate_2x2.obj, plate_2x3.obj, plate_2x4.obj","(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",55,Bricks,outputx53,"(0,2,5)","(359, 270, 300)",Random
+"brick_1x2.obj, brick_1x4.obj, brick_2x2.obj, brick_2x3.obj, brick_2x4.obj, plate_1x2.obj, plate_1x4.obj, plate_2x2.obj, plate_2x3.obj, plate_2x4.obj","(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",60,Bricks,outputx54,"(0,2,5)","(359, 270, 300)",Random
+"brick_1x2.obj, brick_1x4.obj, brick_2x2.obj, brick_2x3.obj, brick_2x4.obj, plate_1x2.obj, plate_1x4.obj, plate_2x2.obj, plate_2x3.obj, plate_2x4.obj","(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",100,Bricks,outputx55,"(0,2,5)","(359, 270, 300)",Random
+"brick_1x2.obj, brick_1x4.obj, brick_2x2.obj, brick_2x3.obj, brick_2x4.obj, plate_1x2.obj, plate_1x4.obj, plate_2x2.obj, plate_2x3.obj, plate_2x4.obj","(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",200,Bricks,outputx56,"(0,2,5)","(359, 270, 300)",Random
+brick_1x2.obj,"(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",5,Bricks,outputx57,"(0,2,5)","(359, 270, 300)",Random
+brick_1x2.obj,"(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",10,Bricks,outputx58,"(0,2,5)","(359, 270, 300)",Random
+brick_1x2.obj,"(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",15,Bricks,outputx59,"(0,2,5)","(359, 270, 300)",Random
+brick_1x2.obj,"(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",20,Bricks,outputx60,"(0,2,5)","(359, 270, 300)",Random
+brick_1x2.obj,"(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",25,Bricks,outputx61,"(0,2,5)","(359, 270, 300)",Random
+brick_1x2.obj,"(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",30,Bricks,outputx62,"(0,2,5)","(359, 270, 300)",Random
+brick_1x2.obj,"(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",35,Bricks,outputx63,"(0,2,5)","(359, 270, 300)",Random
+brick_1x2.obj,"(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",40,Bricks,outputx64,"(0,2,5)","(359, 270, 300)",Random
+brick_1x2.obj,"(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",45,Bricks,outputx65,"(0,2,5)","(359, 270, 300)",Random
+brick_1x2.obj,"(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",50,Bricks,outputx66,"(0,2,5)","(359, 270, 300)",Random
+brick_1x2.obj,"(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",55,Bricks,outputx67,"(0,2,5)","(359, 270, 300)",Random
+brick_1x2.obj,"(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",60,Bricks,outputx68,"(0,2,5)","(359, 270, 300)",Random
+brick_1x2.obj,"(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",100,Bricks,outputx69,"(0,2,5)","(359, 270, 300)",Random
+brick_1x2.obj,"(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",200,Bricks,outputx70,"(0,2,5)","(359, 270, 300)",Random
+brick_2x4.obj,"(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",5,Bricks,outputx71,"(0,2,5)","(359, 270, 300)",Random
+brick_2x4.obj,"(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",10,Bricks,outputx72,"(0,2,5)","(359, 270, 300)",Random
+brick_2x4.obj,"(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",15,Bricks,outputx73,"(0,2,5)","(359, 270, 300)",Random
+brick_2x4.obj,"(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",20,Bricks,outputx74,"(0,2,5)","(359, 270, 300)",Random
+brick_2x4.obj,"(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",25,Bricks,outputx75,"(0,2,5)","(359, 270, 300)",Random
+brick_2x4.obj,"(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",30,Bricks,outputx76,"(0,2,5)","(359, 270, 300)",Random
+brick_2x4.obj,"(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",35,Bricks,outputx77,"(0,2,5)","(359, 270, 300)",Random
+brick_2x4.obj,"(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",40,Bricks,outputx78,"(0,2,5)","(359, 270, 300)",Random
+brick_2x4.obj,"(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",45,Bricks,outputx79,"(0,2,5)","(359, 270, 300)",Random
+brick_2x4.obj,"(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",50,Bricks,outputx80,"(0,2,5)","(359, 270, 300)",Random
+brick_2x4.obj,"(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",55,Bricks,outputx81,"(0,2,5)","(359, 270, 300)",Random
+brick_2x4.obj,"(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",60,Bricks,outputx82,"(0,2,5)","(359, 270, 300)",Random
+brick_2x4.obj,"(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",100,Bricks,outputx83,"(0,2,5)","(359, 270, 300)",Random
+brick_2x4.obj,"(-1,-1.5,3), (1,1.5,3)",300,"260, 270-300",200,Bricks,outputx84,"(0,2,5)","(359, 270, 300)",Random
